@@ -4,7 +4,7 @@
 
 Aspire App is a Flask-based web application designed to provide various functionalities such as user registration, authentication, file upload, user profile management, text analysis, and more.
 
-[Watch the App Demonstration [aspire-demo.webm](..%2F..%2FVideos%2FScreencasts%2Faspire-demo.webm)Video](https://www.youtube.com/watch?v=your_video_id)
+Watch the App Demonstration [aspire-demo.webm](https://github.com/360Ritik/Aspireit-Project/assets/93071300/6a62a03c-59e2-405c-84ac-8f6cec48853f)
 
 ## Features
 
@@ -20,7 +20,7 @@ Aspire App is a Flask-based web application designed to provide various function
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/aspire-app.git
+git clone https://github.com/360Ritik/Aspireit-Project.git
 
 2. Navigate to the project directory:
 - cd aspire-app
